@@ -44,3 +44,9 @@ QCheckBox::indicator
 
 # Скриншоты
 ![check_box_work](https://i.pinimg.com/originals/72/40/b6/7240b6aee07804973307a16a6c615c47.gif)
+
+# Поддержка
+Если у вас возникли сложности или вопросы, создайте [обсуждение][1] в данном репозитории 
+или напишите на электронную почту libese581@gmail.com.
+
+[1]: https://github.com/libra581/QtCheckBox/issues
